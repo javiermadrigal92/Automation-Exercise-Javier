@@ -1,0 +1,19 @@
+{
+  "name": "automation_exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Javier Gomez Madrigal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiermadrigal92/Automation-Exercise-Javier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/javiermadrigal92/Automation-Exercise-Javier/issues"
+  },
+  "homepage": "https://github.com/javiermadrigal92/Automation-Exercise-Javier#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
